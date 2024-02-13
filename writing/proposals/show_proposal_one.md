@@ -24,7 +24,6 @@
 
 I adhered to the Allegheny College Honor Code while completing this project.
 
-
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
@@ -58,7 +57,7 @@ Welcome to the podcast and today we will be unravelling the intricacies of commu
 
 ## 🎉 Show Description
 
- In this podcast episode dedicated to communication majors. We will talk about the wants,needs, and future you will need to be successful at this major. We will breakdown the major and what it means to my guest. I will also ask a variety of questions leading to a even bigger one.
+ In this podcast episode dedicated to communication majors. We will talk about the wants,needs, and future you will need to be successful at this major. We will breakdown the major and what it means to my guest. I will also ask a variety of questions leading to a even bigger one. During this major we will dive deep into the diverse facets of this fascinating major, exploring topics ranging from communication to mass media, public relations and beyond!!!
 
 ## 📢 Call to Action
 
