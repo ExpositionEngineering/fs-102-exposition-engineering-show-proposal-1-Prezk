@@ -39,7 +39,6 @@ Welcome to the podcast and today we will be unravelling the intricacies of commu
 - **Guest**: David Williams or another Comm Major
 
 ## 📝 Show Objectives
-.
 
 - **Objective One**: I want the listeners to get the full rundown of the communication major 
 - **Objective Two**: The audience should gain more knowledge about the communication major 
