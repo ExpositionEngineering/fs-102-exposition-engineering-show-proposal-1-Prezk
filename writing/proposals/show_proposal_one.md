@@ -64,8 +64,8 @@ I want the audience to stay tuned and listen to more episodes after they listen 
  Are you ready to unlock new potential in the world of communication?  Join me and my guest.... on this journey to success, your communication career starts here!!!
 ## 🦜 References
 
-- **Reference One**: https://www.mydegreeguide.com/communications-major/
-- **Reference Two**: https://study.com/academy/lesson/what-are-communication-strategies-definition-types-examples.html
-- **Reference Three**: coukldnt find one 
+- **Reference One**: [Should I Major In Commuications?](https://www.mydegreeguide.com/communications-major/) 
+- **Reference Two**: [Communication Stragties](https://study.com/academy/lesson/what-are-communication-strategies-definition-types-examples.html)
+- **Reference Three**: 
 
 I used chat gpt for my last justification question because I was lost, that's about it. 
