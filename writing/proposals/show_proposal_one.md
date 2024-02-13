@@ -40,14 +40,14 @@ Welcome to the podcast and today we will be unravelling the intricacies of commu
 
 ## 📝 Show Objectives
 
-- **Objective One**: I want the listeners to get the full rundown of the communication major 
-- **Objective Two**: The audience should gain more knowledge about the communication major 
+- **Objective One**: I want the listeners to get the full rundown of the communication major
+- **Objective Two**: The audience should gain more knowledge about the communication major
 - **Objective Three**: To provide valuable insights and practical advice for communication majors ?
 
 ## 📚 Sample Questions
 
 - **Question One**: What will you do with your knowledge learned from college and major ?
-- **Question Two**: Why did you choose communication as your major? 
+- **Question Two**: Why did you choose communication as your major?
 - **Question Three**: How did you come across this as your major and when?
 
 - **Justification for Question One**: WHat is communication major?
