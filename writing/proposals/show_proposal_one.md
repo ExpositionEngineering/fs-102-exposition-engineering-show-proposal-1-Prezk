@@ -65,7 +65,7 @@ I want the audience to stay tuned and listen to more episodes after they listen 
 
 ## 🦜 References
 
-- **Reference One**: [Should I Major In Commuications?](https://www.mydegreeguide.com/communications-major/) 
+- **Reference One**: [Should I Major In Commuications?](https://www.mydegreeguide.com/communications-major/)
 - **Reference Two**: [Communication Stragties](https://study.com/academy/lesson/what-are-communication-strategies-definition-types-examples.html)
 - **Reference Three**: [Communication Careers](https://www.forbes.com/advisor/education/business-and-marketing/careers-in-communication/)
 
